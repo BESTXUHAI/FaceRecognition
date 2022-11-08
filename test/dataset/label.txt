@@ -1,0 +1,9 @@
+imgname-labelname
+1.jpg-guangu
+2.jpg-chengmeijia
+3.jpg-huyifei
+4.jpg-lvziqiao
+5.jpg-zengxiaoxian
+6.jpg-zhangwei
+7.jpg-tangyouyou
+11.jpg-zhangwei
